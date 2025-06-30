@@ -1,7 +1,7 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there+%F0%9F%91%8B,+call+me+Andy!" alt="Footer SVG"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=2500&pause=10000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+call+me+Andy!" alt="Typing SVG" /></a>
   <div>
-    I'm your typical AI & Software Development enthusiast, currently pursuing a degree in Computer Engineering with aspirations of becoming an AI Engineer.
+    I'm your typical AI & Software Development enthusiast, currently pursuing a degree in Computer Engineering with aspirations of becoming an AI engineer.
   </div>
 </div>
 
