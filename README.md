@@ -1,7 +1,11 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there+%F0%9F%91%8B,+call+me+Andy!" alt="Footer SVG"/>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there+%F0%9F%91%8B,+call+me+Andy!" alt="Footer SVG"/>
+  <div>
+    I'm your typical AI & Software Development enthusiast, currently pursuing a degree in Computer Engineering with aspirations of becoming an AI engineer.
+  </div>
+</div>
 
-### I'm your typical AI & Software Development enthusiast, currently pursuing a degree in Computer Engineering with aspirations of becoming an AI engineer.
-
+---
 ###  **Current Tech Stack** 🚀
 
 #### 🖥️ Programming Languages
@@ -44,5 +48,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andyathsid&show_icons=true&theme=apprentice" alt="Andy’s GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andyathsid&show_icons=true&theme=github_dark" alt="Andy’s GitHub stats" height="165"/>
 </p>
