@@ -57,7 +57,7 @@
   <strong>Social Media</strong>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="margin-right: 32px;">
+  <a href="https://www.linkedin.com/in/andyathsid" target="_blank" style="margin-right: 32px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="https://discord.com/users/van_riper" target="_blank">
