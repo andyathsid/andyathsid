@@ -50,3 +50,20 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andyathsid&show_icons=true&theme=github_dark" alt="Andy’s GitHub stats" height="165"/>
 </p>
+
+---
+
+<p align="center" style="margin-top: 32px;">
+  <strong>Social Media</strong>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="margin-right: 32px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
+  </a>
+  <a href="https://discord.com/users/van_riper" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2/ffffff" alt="Discord" width="70" height="70"/>
+  </a>
+</p>
+<p align="center">
+  <span>Feel free to reach out on LinkedIn or Discord for networking, collaboration, or just to say hi!</span>
+</p>
